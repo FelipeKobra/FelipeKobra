@@ -7,26 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipekobra&label=Profile%20views&color=0e75b6&style=flat" alt="felipekobra" /> </p>
 
 
-
-
-- 🔭 Atualmente estou **Melhorando minhas habilidades!**
-
-- 🌱 Estou me desenvolvendo em **BackEnd,Python,C#**
-
-- 👯 Procuro trabalhar com **Você!**
-
-- 🤝 Se tiver algo que possa me auxiliar **Estou aceitando!**
-
-- 👨‍💻 Meu Portfólio [https://felipekobra.github.io/PortfolioWebsite.github.io/](https://felipekobra.github.io/PortfolioWebsite.github.io/)
-
-- 💬 Me procure caso **Tenha novas oportunidades ou queira um amigo!**
-
-- 📫 Como me contatar **felipekbra@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fale Comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipekobra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipekobra" height="30" width="40" /></a>
-<a href="https://instagram.com/felipekbra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipekbra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
