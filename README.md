@@ -1,5 +1,3 @@
-<h1 align="center"></h1>
-
 ###
 
 <div align="center">
@@ -83,7 +81,5 @@
 </div>
 
 ###
-
-<h1 align="left"></h1>
 
 ###
