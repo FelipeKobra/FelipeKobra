@@ -1,4 +1,4 @@
-<h1 align="center">Bem Vindo 🫡</h1>
+<h1 align="center">Welcome 🫡</h1>
 
 ###
 
@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<h1 align="center">Meus repositórios estão dividos por listas na seção Stars ⭐</h1>
+<h1 align="center">My repositories are divided into lists in the Stars section. ⭐</h1>
 
 ###
